@@ -1,3 +1,4 @@
+import AboutUs from "./components/AboutUs";
 import Background from "./components/Background";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -9,6 +10,7 @@ export default function App() {
       <Background />
       <Header />
       <Main />
+      <AboutUs />
       <Footer />
     </div>
   );
