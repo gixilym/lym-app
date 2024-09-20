@@ -1,6 +1,9 @@
 function AboutUs() {
   return (
-    <section className="w-full bg-purple-950/15 pb-20 pt-4 font-ubuntu flex flex-col justify-center items-center gap-y-10">
+    <section
+      id="aboutus"
+      className="w-full bg-purple-950/15 pb-20 pt-4 font-ubuntu flex flex-col justify-center items-center gap-y-10"
+    >
       <p className="text-[54px] text-purple-50 w-full text-center">
         <span className="text-purple-300">¿</span>Quiénes somos
         <span className="text-purple-300">?</span>
