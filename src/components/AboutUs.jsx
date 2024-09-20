@@ -8,7 +8,7 @@ function AboutUs() {
         <span className="text-purple-300">¿</span>Quiénes somos
         <span className="text-purple-300">?</span>
       </p>
-      <div className="flex flex-col gap-y-4 w-full max-w-[600px] text-xl justify-center text-pretty items-center text-purple-100">
+      <div className="flex flex-col gap-y-4 w-full max-w-[600px] text-[22px] justify-center items-center text-purple-100">
         <p className="text-center w-full">
           Somos una empresa emergente comprometida con el desarrollo de
           soluciones de software innovadoras y de alta calidad.

@@ -1,17 +1,19 @@
-import AboutUs from "./components/AboutUs";
-import Background from "./components/Background";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import Main from "./components/Main";
+import { Route, Switch } from "wouter";
+import Layout from "./components/Layout";
+import Home from "./pages/Home";
+import TermsAndConditions from "./pages/TermsAndConditions";
+import NotFound from "./pages/404";
 
-export default function App() {
+function App() {
   return (
-    <div className="flex flex-col min-h-screen bg-gray-900 font-ubuntu">
-      <Background />
-      <Header />
-      <Main />
-      <AboutUs />
-      <Footer />
-    </div>
+    <Layout>
+      <Switch>
+        <Route path="/" component={Home} />
+        <Route path="/termsandconditions" component={TermsAndConditions} />
+        <Route path="*" component={NotFound} />
+      </Switch>
+    </Layout>
   );
 }
+
+export default App;
