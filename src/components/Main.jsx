@@ -1,16 +1,18 @@
 function Main() {
   return (
     <main className="flex-1">
-      <section className="w-full flex items-start h-[550px] justify-center pt-32 relative">
+      <section className="w-full flex items-start h-auto sm:h-[550px] justify-center py-16 sm:py-0 sm:pt-32 relative">
         <div className="flex flex-col justify-start items-center gap-y-6 text-white w-full">
           <h1
-            className="text-8xl tracking-tighter font-semibold font-quick"
+            className="text-6xl sm:text-8xl tracking-tighter font-semibold font-quick"
             translate="no"
           >
             L<span className="text-purple-300">y</span>m
           </h1>
-          <h2 className="text-6xl text-purple-50">Software a Medida</h2>
-          <h3 className="text-xl text-center text-slate-300 max-w-[500px] text-pretty">
+          <h2 className="text-4xl text-balance sm:text-6xl text-purple-50">
+            Software a Medida
+          </h2>
+          <h3 className="text-lg sm:text-xl text-center text-slate-300 max-w-[500px] text-pretty">
             Sitios web, ecommerces, apps de escritorio, <br /> sistemas de
             gestión y mucho más.
           </h3>

@@ -4,9 +4,11 @@ function Services() {
   return (
     <section
       id="services"
-      className="w-full bg-purple-950/15 py-10 h-[750px] space-y-10 font-ubuntu"
+      className="w-full bg-purple-950/15 py-10 px-6 sm:px-0 h-auto sm:h-[750px] space-y-10 sm:space-y-16 font-ubuntu"
     >
-      <p className="text-[54px] text-purple-50 w-full text-center">Servicios</p>
+      <p className="text-4xl sm:text-[54px] text-purple-50 w-full text-center">
+        Servicios
+      </p>
       <ul className="w-full max-w-[1100px] mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8">
         <li className="w-full h-full bg-purple-950/60 border-2 border-purple-900 rounded-lg p-6 flex flex-col items-center text-center">
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
