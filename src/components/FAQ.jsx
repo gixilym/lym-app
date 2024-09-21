@@ -10,7 +10,7 @@ function FAQ() {
         Preguntas Frecuentes
       </p>
 
-      <div className="flex flex-col gap-y-4 w-full max-w-[550px] text-[22px] justify-center items-center text-purple-100">
+      <div className="flex flex-col gap-y-4 w-full max-w-[550px] text-[19px] justify-center items-center text-purple-100">
         <div className="flex w-full gap-x-4 justify-start items-center bg-purple-950/60 p-4 rounded-xl border-2 border-purple-900">
           <ArrowBigRight />
           <p>Cuánto demora la creación de un sitio web?</p>

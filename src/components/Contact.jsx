@@ -1,5 +1,4 @@
-import { Instagram } from "lucide-react";
-import { Mail, Smartphone } from "lucide-react";
+import { Instagram, Mail, Smartphone } from "lucide-react";
 
 function Contact() {
   return (

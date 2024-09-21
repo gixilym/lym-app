@@ -1,8 +1,8 @@
 import { Route, Switch } from "wouter";
 import Layout from "./components/Layout";
+import NotFound from "./pages/404";
 import Home from "./pages/Home";
 import TermsAndConditions from "./pages/TermsAndConditions";
-import NotFound from "./pages/404";
 
 function App() {
   return (
