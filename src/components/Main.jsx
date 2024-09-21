@@ -1,7 +1,7 @@
 function Main() {
   return (
     <main className="flex-1">
-      <section className="w-full flex items-start h-auto sm:h-[550px] justify-center py-16 sm:py-0 sm:pt-32 relative">
+      <section className="w-full flex items-start h-auto sm:h-[550px] justify-center py-16 sm:py-0 sm:pt-24 relative">
         <div className="flex flex-col justify-start items-center gap-y-6 text-white w-full">
           <h1
             className="text-6xl sm:text-8xl tracking-tighter font-semibold font-quick"
