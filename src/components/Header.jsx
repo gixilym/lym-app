@@ -3,7 +3,8 @@ import { Link } from "wouter";
 function Header() {
   return (
     <header className="px-6 h-[70px] flex items-center border-b border-gray-800 bg-violet-600/5">
-      <Link className="flex items-center justify-center" to="/">
+      <Link className="flex items-center justify-center gap-x-2" to="/">
+        <img src="/favicon.ico" width={35} height={35} />
         <span
           className="text-2xl font-bold text-white font-quick"
           translate="no"
