@@ -14,8 +14,10 @@ function Services() {
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <Laptop color="#fff" size={36} />
           </div>
-          <p className="text-xl font-bold text-white mb-2">Sitios Web</p>
-          <p className="text-slate-200 text-lg text-pretty">
+          <p className="text-lg sm:text-xl font-bold text-white mb-2">
+            Sitios Web
+          </p>
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
             Creamos experiencias web únicas, adaptadas a tus necesidades y
             objetivos.
           </p>
@@ -24,8 +26,10 @@ function Services() {
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <ShoppingBag color="#fff" size={30} />
           </div>
-          <h3 className="text-xl font-bold text-white mb-2">Ecommerces</h3>
-          <p className="text-slate-200 text-lg text-pretty">
+          <h3 className="text-lg sm:text-xl font-bold text-white mb-2">
+            Ecommerces
+          </h3>
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
             Diseñamos tu tienda online personalizada para impulsar tu negocio.
           </p>
         </li>
@@ -33,10 +37,10 @@ function Services() {
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <DatabaseZap color="#fff" size={30} />
           </div>
-          <p className="text-xl font-bold text-white mb-2">
+          <p className="text-lg sm:text-xl font-bold text-white mb-2">
             Sistemas de gestión
           </p>
-          <p className="text-slate-200 text-lg text-pretty">
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
             Sistemas diseñados para mejorar la eficiencia y el control de tu
             negocio.
           </p>
@@ -45,10 +49,10 @@ function Services() {
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <Monitor color="#fff" size={36} />
           </div>
-          <p className="text-xl font-bold text-white mb-2">
+          <p className="text-lg sm:text-xl font-bold text-white mb-2">
             Programas de escritorio
           </p>
-          <p className="text-slate-200 text-lg text-pretty">
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
             Creamos y adaptamos sistemas a programas de escritorio nativos.
           </p>
         </li>

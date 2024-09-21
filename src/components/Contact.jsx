@@ -14,22 +14,32 @@ function Contact() {
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <Mail color="#fff" size={28} />
           </div>
-          <p className="text-xl font-[500] text-white mb-2">Email</p>
-          <p className="text-slate-200 text-lg text-pretty">lym@software.com</p>
+          <p className="text-lg sm:text-xl font-[500] text-white mb-2">Email</p>
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
+            lym@software.com
+          </p>
         </div>
         <div className="bg-purple-950/60 border-2 border-purple-900 rounded-lg p-6 flex flex-col items-center text-center">
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <Instagram color="#fff" size={28} />
           </div>
-          <p className="text-xl font-[500] text-white mb-2">Instagram</p>
-          <p className="text-slate-200 text-lg text-pretty">@lym_software</p>
+          <p className="text-lg sm:text-xl font-[500] text-white mb-2">
+            Instagram
+          </p>
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
+            @lym_software
+          </p>
         </div>
         <div className="bg-purple-950/60 border-2 border-purple-900 rounded-lg p-6 flex flex-col items-center text-center">
           <div className="w-16 h-16 rounded-full bg-purple-600 border-2 border-purple-500 flex items-center justify-center mb-4">
             <Smartphone color="#fff" size={28} />
           </div>
-          <p className="text-xl font-[500] text-white mb-2">Celular</p>
-          <p className="text-slate-200 text-lg text-pretty">261 123 1324</p>
+          <p className="text-lg sm:text-xl font-[500] text-white mb-2">
+            Celular
+          </p>
+          <p className="text-slate-200 text-sm sm:text-lg text-pretty">
+            261 123 1324
+          </p>
         </div>
       </div>
     </section>
