@@ -13,7 +13,7 @@ function Main() {
             Software a Medida
           </h2>
           <h3 className="text-lg sm:text-xl text-center text-slate-300 max-w-[500px] text-pretty px-4 sm:px-0">
-            Sitios web, ecommerces, apps de escritorio, <br /> sistemas de
+            Sitios web, ecommerces, programas de escritorio, <br /> sistemas de
             gestión y mucho más.
           </h3>
           <a

@@ -14,7 +14,7 @@ function Header() {
         </span>
       </Link>
 
-      <nav className="ml-auto flex gap-x-4 text-sm sm:text-lg [&>a]:py-1">
+      <nav className="ml-auto flex gap-x-4 sm:gap-x-6 text-sm sm:text-lg [&>a]:py-1">
         {path == "/" ? (
           <>
             <a
