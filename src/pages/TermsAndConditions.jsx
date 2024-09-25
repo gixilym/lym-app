@@ -6,40 +6,43 @@ function TermsAndConditions() {
           Términos de Servicio
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          Lym se especializa en el desarrollo de software, sitios web,
+          e-commerce, programas de escritorio y sistemas de gestión. Nos
+          comprometemos a ofrecer soluciones personalizadas basadas en las
+          necesidades y objetivos de cada cliente.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          Al solicitar nuestros servicios, te comprometes a proporcionar
+          información veraz y actualizada para poder desarrollar tu proyecto de
+          manera eficiente. Nos reservamos el derecho de rechazar la prestación
+          de servicios a cualquier persona o empresa en cualquier momento.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          El tiempo de desarrollo de cada proyecto depende de su complejidad y
+          de los requisitos del cliente. Los plazos acordados son estimaciones,
+          y cualquier cambio en los requisitos o especificaciones del proyecto
+          puede afectar los tiempos de entrega.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          Ofrecemos diversas opciones de pago, incluyendo transferencias
+          bancarias, tarjetas de débito, PayPal y USDT. Los pagos deben
+          realizarse según lo acordado en el contrato, y el incumplimiento de
+          los pagos puede llevar a la suspensión temporal o definitiva del
+          servicio.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          Nos comprometemos a mantener la confidencialidad de la información
+          proporcionada por nuestros clientes y a no divulgarla a terceros sin
+          su consentimiento previo.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur
-          consequuntur consectetur asperiores aspernatur dignissimos, sint at
-          inventore optio in neque, error ducimus reiciendis aut omnis? Fugit
-          non obcaecati omnis eveniet!
+          Nos reservamos el derecho de modificar estos Términos de Servicio en
+          cualquier momento. Cualquier cambio entrará en vigor inmediatamente
+          después de su publicación en nuestro sitio web.
+        </p>
+        <p>
+          Si tienes alguna duda sobre estos Términos de Servicio, puedes
+          contactarnos a través de la sección de contacto.
         </p>
       </div>
     </section>
