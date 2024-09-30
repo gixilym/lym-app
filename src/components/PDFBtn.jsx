@@ -9,8 +9,9 @@ function PDFBtn() {
         nuestros servicios
       </p>
       <a
-        href="/lym.pdf"
-        download
+        href="https://drive.google.com/file/d/1oeJWK7D1anxPslaq_FpWo7EB8N9N3tt8/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer noopener"
         className="
         border-2 border-purple-600
           flex items-center justify-center
