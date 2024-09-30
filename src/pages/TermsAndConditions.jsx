@@ -7,7 +7,7 @@ function TermsAndConditions() {
         </p>
         <p>
           Lym se especializa en el desarrollo de software, sitios web,
-          e-commerce, programas de escritorio y sistemas de gestión. Nos
+          ecommerce, programas de escritorio y sistemas de gestión. Nos
           comprometemos a ofrecer soluciones personalizadas basadas en las
           necesidades y objetivos de cada cliente.
         </p>
@@ -25,10 +25,9 @@ function TermsAndConditions() {
         </p>
         <p>
           Ofrecemos diversas opciones de pago, incluyendo transferencias
-          bancarias, tarjetas de débito, PayPal y USDT. Los pagos deben
-          realizarse según lo acordado en el contrato, y el incumplimiento de
-          los pagos puede llevar a la suspensión temporal o definitiva del
-          servicio.
+          bancarias, transferencia vía PayPal y USDT. Los pagos deben realizarse
+          según lo acordado en el contrato, y el incumplimiento de los pagos
+          puede llevar a la suspensión temporal o definitiva del servicio.
         </p>
         <p>
           Nos comprometemos a mantener la confidencialidad de la información

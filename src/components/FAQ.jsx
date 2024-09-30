@@ -28,8 +28,7 @@ function FAQ() {
             <p>¿Qué métodos de pago aceptan?</p>
           </div>
           <p className="text-[16px] w-full text-pretty px-8">
-            Aceptamos transferencias bancarias, tarjetas de débito.
-            Transferencia vía PayPal o USDT.
+            Aceptamos transferencias bancarias. Transferencia vía PayPal o USDT.
           </p>
         </div>
         <div className="flex flex-col w-full gap-y-2 justify-start items-start bg-purple-950/60 p-4 rounded-xl border-2 border-purple-900">
