@@ -2,7 +2,7 @@ function PDFBtn() {
   return (
     <section
       id="pdf"
-      className="flex flex-col items-center justify-center pb-20 pt-4 bg-purple-950/15"
+      className="flex flex-col items-center justify-center pb-20 pt-4 px-4 md:px-0 bg-purple-950/15"
     >
       <p className="text-lg md:text-xl text-gray-200 mb-4 text-center">
         Este documento PDF contiene información <br /> detallada acerca de

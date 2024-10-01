@@ -1,6 +1,6 @@
 function TermsAndConditions() {
   return (
-    <section className="w-full min-h-screen flex flex-col justify-start py-14 sm:py-32 items-center">
+    <section className="w-full min-h-screen flex flex-col justify-start py-14 sm:py-32 items-center px-4 md:px-0">
       <div className="max-w-[650px] text-lg sm:text-xl text-purple-50 flex flex-col gap-y-4 sm:gap-y-8 justify-center items-center sm:items-start [&>p]:text-center sm:[&>p]:text-start">
         <p className="text-4xl sm:text-5xl mb-4 sm:mb-6">
           Términos de Servicio
