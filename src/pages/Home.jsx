@@ -2,7 +2,7 @@ import AboutUs from "../components/AboutUs";
 import Contact from "../components/Contact";
 import FAQ from "../components/FAQ";
 import Main from "../components/Main";
-import PDFBtn from "../components/PDFBtn";
+// import PDFBtn from "../components/PDFBtn";
 import Services from "../components/Services";
 
 function Home() {
@@ -13,7 +13,7 @@ function Home() {
       <Contact />
       <AboutUs />
       <FAQ />
-      <PDFBtn />
+      {/* <PDFBtn /> */}
     </>
   );
 }
